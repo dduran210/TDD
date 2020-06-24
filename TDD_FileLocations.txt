@@ -1,0 +1,4 @@
+C:/Users/Daryl/.conda/envs/py36_TDD/python.exe C:/Users/Daryl/.conda/envs/py36_TDD/Scripts/django-admin.py startproject .
+
+
+C:\Users\Daryl\.conda\envs\py36_TDD;C:\Users\Daryl\.conda\envs\py36_TDD\DLLs;C:\Users\Daryl\.conda\envs\py36_TDD\LIB;C:\Users\Daryl\.conda\envs\py36_TDD\LIB-TK
